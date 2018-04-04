@@ -1,0 +1,11 @@
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\bin\Debug\netcoreapp2.0\LiquidHandson.deps.json
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\bin\Debug\netcoreapp2.0\LiquidHandson.runtimeconfig.json
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\bin\Debug\netcoreapp2.0\LiquidHandson.runtimeconfig.dev.json
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\bin\Debug\netcoreapp2.0\LiquidHandson.dll
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\bin\Debug\netcoreapp2.0\LiquidHandson.pdb
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\obj\Debug\netcoreapp2.0\LiquidHandson.csprojResolveAssemblyReference.cache
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\obj\Debug\netcoreapp2.0\LiquidHandson.csproj.CoreCompileInputs.cache
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\obj\Debug\netcoreapp2.0\LiquidHandson.AssemblyInfoInputs.cache
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\obj\Debug\netcoreapp2.0\LiquidHandson.AssemblyInfo.cs
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\obj\Debug\netcoreapp2.0\LiquidHandson.dll
+c:\users\diksha.gulati\source\repos\LiquidHandson\LiquidHandson\obj\Debug\netcoreapp2.0\LiquidHandson.pdb
